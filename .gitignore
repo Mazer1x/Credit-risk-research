@@ -1,0 +1,6 @@
+# jupyter
+.ipynb_checkpoints/
+.artifacts/
+.data/.loan
+.data/.ipynb_checkpoints
+.data/LCDataDictionary.xlsx
